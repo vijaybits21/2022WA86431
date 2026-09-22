@@ -34,5 +34,14 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+	public void testApp()
+
+{
+
+    System.out.println("DevOps CI Pipeline - Automated Build Triggered!");
+
+    assertTrue( true );
+
+}
     }
 }
